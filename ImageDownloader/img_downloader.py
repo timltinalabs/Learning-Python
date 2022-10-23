@@ -18,6 +18,5 @@ def ImageDownloader(url):
 
 # USAGE
 # Change the URL from where you have to download the image
-ImageDownloader(
-    "https://www.123rf.com/stock-photo/spring_color.html?oriSearch=spring&ch=spring&sti=oazo8ueuz074cdpc48|"
-)
+ImageDownloader("https://www.123rf.com/stock-photo/spring_color.html?oriSearch=spring&ch=spring&sti=oazo8ueuz074cdpc48|")
+ImageDownloader("https://unsplash.com/photos/lsdA8QpWN_A")
